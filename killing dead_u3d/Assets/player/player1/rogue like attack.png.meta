@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 53a6975a11cac9847b01d77f29a07cbf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3965665959830230404
+    second: rogue like attack_0
+  - first:
+      213: 6042742506575237410
+    second: rogue like attack_1
+  - first:
+      213: 3918524260108690190
+    second: rogue like attack_2
+  - first:
+      213: -2000793649901241672
+    second: rogue like attack_3
+  - first:
+      213: -4378632082699976804
+    second: rogue like attack_4
+  - first:
+      213: 1386314069065107564
+    second: rogue like attack_5
+  - first:
+      213: 271572747252983239
+    second: rogue like attack_6
+  - first:
+      213: 5961303447015702847
+    second: rogue like attack_7
+  - first:
+      213: -2388926061800910057
+    second: rogue like attack_8
+  - first:
+      213: 8271074295553790590
+    second: rogue like attack_9
+  - first:
+      213: -7759892582239107917
+    second: rogue like attack_10
+  - first:
+      213: 9038507073212041257
+    second: rogue like attack_11
+  - first:
+      213: 2322117309491271169
+    second: rogue like attack_12
+  - first:
+      213: 1407168546967364007
+    second: rogue like attack_13
+  - first:
+      213: -8489233747761980388
+    second: rogue like attack_14
+  - first:
+      213: -8419174944051491254
+    second: rogue like attack_15
+  - first:
+      213: -8427236673135946761
+    second: rogue like attack_16
+  - first:
+      213: 7732550722948741582
+    second: rogue like attack_17
+  - first:
+      213: -4182627210869615940
+    second: rogue like attack_18
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rogue like attack_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 36
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0835da7d5d2e0c4dbc1bbfe8ab6671e
+      internalID: 3965665959830230404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rogue like attack_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 36
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26a7975404355a4882aaaa9af66bd68
+      internalID: 6042742506575237410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rogue like attack_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 36
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c30407ecc9add47b206a5f5ee29753
+      internalID: 3918524260108690190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rogue like attack_3
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 36
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a821e27c942e5c4c983819fc737376d
+      internalID: -2000793649901241672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rogue like attack_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 36
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e19dee2eee3a1e47ad97d02d6f4a077
+      internalID: -4378632082699976804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rogue like attack_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 36
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089bfa0fac4b0ce44bf66543b8f288c0
+      internalID: 1386314069065107564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rogue like attack_6
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 36
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681fb44c5512aaa42a23fdbf76416091
+      internalID: 271572747252983239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rogue like attack_7
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 36
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe715a2793547fe4fb34f4d42253d062
+      internalID: 5961303447015702847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rogue like attack_8
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 36
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee48d61d97ac104d913f3ff37727f22
+      internalID: -2388926061800910057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rogue like attack_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 36
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cadc695ee9a27d41bbe82dee6199adf
+      internalID: 8271074295553790590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rogue like attack_10
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 36
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab7e2b6c2033664f8fcfc8c8349f46b
+      internalID: -7759892582239107917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rogue like attack_11
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 36
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba65733d849541244a665e5604413e65
+      internalID: 9038507073212041257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rogue like attack_12
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 36
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51ee05a1fc258440a64fb42fa5057b2
+      internalID: 2322117309491271169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rogue like attack_13
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 36
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc388a4b08ecbc458bf40bff6630b4f
+      internalID: 1407168546967364007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rogue like attack_14
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 36
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28028989059a9ff458e58617c98d25be
+      internalID: -8489233747761980388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rogue like attack_15
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 36
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ce533521342f14bb64e321eb1c7aa1
+      internalID: -8419174944051491254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rogue like attack_16
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 36
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c381a5a2f70b94e97b0dd8d63d608d
+      internalID: -8427236673135946761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rogue like attack_17
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 36
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab52bdd2e7f02d64ebca7373ea9d4429
+      internalID: 7732550722948741582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rogue like attack_18
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 36
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d54777632da8841943970d41429830
+      internalID: -4182627210869615940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

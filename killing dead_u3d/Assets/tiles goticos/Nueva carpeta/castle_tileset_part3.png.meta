@@ -1,0 +1,670 @@
+fileFormatVersion: 2
+guid: 8d86d4dbad22a0f4ca9b383b764522ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7864165168623777088
+    second: castle_tileset_part3_0
+  - first:
+      213: -8479468031776872150
+    second: castle_tileset_part3_1
+  - first:
+      213: -963273861533089260
+    second: castle_tileset_part3_2
+  - first:
+      213: 6026137662872208541
+    second: castle_tileset_part3_3
+  - first:
+      213: 7725366669274979516
+    second: castle_tileset_part3_4
+  - first:
+      213: 860516005445655633
+    second: castle_tileset_part3_5
+  - first:
+      213: -32568593816861171
+    second: castle_tileset_part3_6
+  - first:
+      213: 1315957746759116475
+    second: castle_tileset_part3_7
+  - first:
+      213: 8230208863442781802
+    second: castle_tileset_part3_8
+  - first:
+      213: -2708740668905151148
+    second: castle_tileset_part3_9
+  - first:
+      213: 5512137177754679119
+    second: castle_tileset_part3_10
+  - first:
+      213: 8654727738922653688
+    second: castle_tileset_part3_11
+  - first:
+      213: -408471395944483453
+    second: castle_tileset_part3_12
+  - first:
+      213: -1602119837887682838
+    second: castle_tileset_part3_13
+  - first:
+      213: -8764364595874767682
+    second: castle_tileset_part3_14
+  - first:
+      213: 6405440690937401782
+    second: castle_tileset_part3_15
+  - first:
+      213: -7316231142748570176
+    second: castle_tileset_part3_16
+  - first:
+      213: 9127257391480611251
+    second: castle_tileset_part3_17
+  - first:
+      213: 5897194410281096717
+    second: castle_tileset_part3_18
+  - first:
+      213: -8183076162763699933
+    second: castle_tileset_part3_19
+  - first:
+      213: -3218609828133897557
+    second: castle_tileset_part3_20
+  - first:
+      213: 7839988841003153226
+    second: castle_tileset_part3_21
+  - first:
+      213: 7731982386134711303
+    second: castle_tileset_part3_22
+  - first:
+      213: 3921603054696421220
+    second: castle_tileset_part3_23
+  - first:
+      213: -6228767236217682362
+    second: castle_tileset_part3_24
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: castle_tileset_part3_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 321
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa071fc105be3640b17af245993f53c
+      internalID: 7864165168623777088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_tileset_part3_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 371
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270454c0f9d015b4c8fda28e4a1130c6
+      internalID: -8479468031776872150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_tileset_part3_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 371
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9319afa6c8d9aef4ab84cd56359d28f7
+      internalID: -963273861533089260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_tileset_part3_3
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 371
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f9458624a612840baaa6fc30408b97
+      internalID: 6026137662872208541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_tileset_part3_4
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 371
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ed31a833ac3d041a597ea49fbb446f
+      internalID: 7725366669274979516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_tileset_part3_5
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 224
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb509e4d84c6d1648b6d77b19ebecd0e
+      internalID: 860516005445655633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_tileset_part3_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 289
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58992e1406f55b644908b0de028bf4e2
+      internalID: -32568593816861171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_tileset_part3_7
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 256
+        width: 50
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e9cb1f7b52fb74083df17f79720fea
+      internalID: 1315957746759116475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_tileset_part3_8
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 224
+        width: 86
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e80234149ff4d46aaac679845816ea
+      internalID: 8230208863442781802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_tileset_part3_9
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 256
+        width: 50
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecc8814756b17642be841a4c3e225c6
+      internalID: -2708740668905151148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_tileset_part3_10
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 224
+        width: 86
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36268315938658346ad26d22baec9d8a
+      internalID: 5512137177754679119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_tileset_part3_11
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 196
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02202e10aecf736429560079ce87605b
+      internalID: 8654727738922653688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_tileset_part3_12
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 145
+        width: 90
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b30927f7a7d74940bfad617c13a4382
+      internalID: -408471395944483453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_tileset_part3_13
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 145
+        width: 90
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a12a45a3c91df4a929500bd8c795e4
+      internalID: -1602119837887682838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_tileset_part3_14
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 131
+        width: 8
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3542bbc5cf49334fb4ee29e6a8778e9
+      internalID: -8764364595874767682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_tileset_part3_15
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 81
+        width: 90
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f026989d86ad6043abae5eee1c1ace0
+      internalID: 6405440690937401782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_tileset_part3_16
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 81
+        width: 90
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea91fda0c090efc43a2f3ed867d79d4c
+      internalID: -7316231142748570176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_tileset_part3_17
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 96
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbf99ac9bb71d44eb7914795c509682
+      internalID: 9127257391480611251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_tileset_part3_18
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 17
+        width: 90
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43dddd76357dae441a35720d0a845d27
+      internalID: 5897194410281096717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_tileset_part3_19
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 17
+        width: 90
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97948cc480f66c42962b0c4c9403451
+      internalID: -8183076162763699933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
