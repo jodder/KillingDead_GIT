@@ -120,6 +120,36 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1 &6755765
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6755766}
+  m_Layer: 0
+  m_Name: Esto es para el git
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6755766
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6755765}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1.776147, y: -0.6054518, z: -1.5789481}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &80812305 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7618487582713992909, guid: 627d852fe852bcf47b55c8f7511234ba,
@@ -13984,6 +14014,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: EnemigoCabezon
       objectReference: {fileID: 0}
+    - target: {fileID: 4229267984092743458, guid: 96e25f61747ef5147b6fbd99fa2589b6,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     - target: {fileID: 4213695385392936554, guid: 96e25f61747ef5147b6fbd99fa2589b6,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -13993,6 +14028,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 622640166076292913, guid: 96e25f61747ef5147b6fbd99fa2589b6,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 7275199342271714827, guid: 96e25f61747ef5147b6fbd99fa2589b6,
         type: 3}
@@ -14063,16 +14103,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_FlipX
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4229267984092743458, guid: 96e25f61747ef5147b6fbd99fa2589b6,
-        type: 3}
-      propertyPath: m_Layer
-      value: 9
-      objectReference: {fileID: 0}
-    - target: {fileID: 622640166076292913, guid: 96e25f61747ef5147b6fbd99fa2589b6,
-        type: 3}
-      propertyPath: m_Layer
-      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 4343640663061697394, guid: 96e25f61747ef5147b6fbd99fa2589b6,
         type: 3}
